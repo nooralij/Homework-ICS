@@ -1,0 +1,32 @@
+body
+{
+	text-align : center;
+	background-image: url("background.jpeg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: "Century Gothic", Georgia, sans-serif;
+	color : olive;
+}
+a
+{
+	color : teal;
+	font-weight: bold;
+}
+h1,h2
+{
+	color : maroon;
+}
+.blah
+{
+	color : indianred;
+}
+.link
+{
+	background-color : sandybrown;
+	color : teal;
+}
+.haha
+{
+	color : #CC0099;
+	font-weight: bold;
+}
